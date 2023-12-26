@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mix</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>63</title>
+            <link>slides/63.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/63.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/63.jpg" width="270" height="360"/>
+            <guid isPermaLink="false">slides/63.jpg</guid>
+        </item>
+        <item>
+            <title>83</title>
+            <link>slides/83.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/83.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/83.jpg" width="270" height="360"/>
+            <guid isPermaLink="false">slides/83.jpg</guid>
+        </item>
+        <item>
+            <title>93</title>
+            <link>slides/93.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/93.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/93.jpg</guid>
+        </item>
+        <item>
+            <title>103</title>
+            <link>slides/103.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/103.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/103.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/103.jpg</guid>
+        </item>
+        <item>
+            <title>112</title>
+            <link>slides/112.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/112.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/112.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/112.jpg</guid>
+        </item>
+        <item>
+            <title>50</title>
+            <link>slides/50.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/50.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/50.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/50.jpg</guid>
+        </item>
+        <item>
+            <title>51</title>
+            <link>slides/51.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/51.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/51.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/51.jpg</guid>
+        </item>
+        <item>
+            <title>522</title>
+            <link>slides/522.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/522.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/522.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/522.jpg</guid>
+        </item>
+        <item>
+            <title>532</title>
+            <link>slides/532.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/532.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/532.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/532.jpg</guid>
+        </item>
+        <item>
+            <title>542</title>
+            <link>slides/542.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/542.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/542.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/542.jpg</guid>
+        </item>
+        <item>
+            <title>56</title>
+            <link>slides/56.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/56.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/56.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/56.jpg</guid>
+        </item>
+        <item>
+            <title>57</title>
+            <link>slides/57.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/57.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/57.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/57.jpg</guid>
+        </item>
+        <item>
+            <title>61</title>
+            <link>slides/61.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/61.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/61.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/61.jpg</guid>
+        </item>
+        <item>
+            <title>622</title>
+            <link>slides/622.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/622.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/622.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/622.jpg</guid>
+        </item>
+        <item>
+            <title>68</title>
+            <link>slides/68.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/68.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/68.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/68.jpg</guid>
+        </item>
+        <item>
+            <title>70</title>
+            <link>slides/70.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/70.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/70.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/70.jpg</guid>
+        </item>
+        <item>
+            <title>87</title>
+            <link>slides/87.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/87.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/87.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/87.jpg</guid>
+        </item>
+        <item>
+            <title>88</title>
+            <link>slides/88.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/88.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/88.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/88.jpg</guid>
+        </item>
+        <item>
+            <title>89</title>
+            <link>slides/89.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/89.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/89.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/89.jpg</guid>
+        </item>
+    </channel>
+</rss>

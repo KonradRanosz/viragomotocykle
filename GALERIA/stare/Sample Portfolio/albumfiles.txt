@@ -1,0 +1,16 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows can have up to 3 tab separated columns according to this scheme:
+# File name | Target path (for links) | When added (seconds since epoch)
+# Note: The target path can reference files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+People		1373019265
+Nature		1373019265
+Objects		1373019265
+Travel		1373019265
+-Bokeh.jpg		1382915383
+About.htt		1382915383
+Contact.htt		1383053551
+res		1383307026

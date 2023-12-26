@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Moto Guzzi</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>48</title>
+            <link>slides/48.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:59 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/48.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/48.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/48.jpg</guid>
+        </item>
+        <item>
+            <title>632</title>
+            <link>slides/632.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:59 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/632.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/632.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/632.jpg</guid>
+        </item>
+        <item>
+            <title>64</title>
+            <link>slides/64.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:59 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/64.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/64.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/64.jpg</guid>
+        </item>
+        <item>
+            <title>65</title>
+            <link>slides/65.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:59 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/65.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/65.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/65.jpg</guid>
+        </item>
+    </channel>
+</rss>

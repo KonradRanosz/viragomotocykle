@@ -1,0 +1,47 @@
+<%-- User interface for editing this page from within jAlbum --%>
+<ja:ui>
+	class AboutUI extends JWebPageUI {
+		JTextField aboutHeader = new JTextField("About my portfolio");
+		JTextArea aboutText = new JSmartTextArea(8,30);
+		JTextField authorImagePath = new JTextField(10);
+		JTextField authorImage = new JTextField("dummy.jpg");
+		JFileSelector imageSelector = new JFileSelector("Select author image", authorImagePath);
+		{
+			aboutText.setLineWrap(true);
+			authorImagePath.setEditable(false);
+			imageSelector.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent e) {
+					File resDir = new File(rootImageDirectory, "res");
+					if (!resDir.exists()) {
+						resDir.mkdir();
+					}
+					AlbumImage ai = new AlbumImage(imageSelector.getSelectedFile(), engine);
+					ai = ai.scaleToFit(new Dimension(320,320));
+					ai.saveImage(resDir);
+					authorImage.setText(imageSelector.getSelectedFile().getName());
+				}
+			});
+			add(new JLabel("Author image"));
+			add("tab hfill", authorImagePath); // add(authorImage);
+			add(imageSelector);
+			add("br", new JLabel("Header"));
+			add("tab hfill", aboutHeader);
+			add("br", new JLabel("Text"));
+			add("tab hfill vfill", new JScrollPane(aboutText));
+		}
+	}
+</ja:ui>
+
+<ja:include page="page-header.inc" /> <%-- Keep this --%>
+
+
+	<div id="about-page" class="clearfix">
+		<aside><img src="${resPath}/${authorImage}"></aside>
+		<div class="texts">
+			<ja:if exists="aboutHeader"><h1>${aboutHeader}</h1></ja:if>
+			<ja:if exists="aboutText"><p>${aboutText}</p></ja:if>
+		</div>
+	</div>
+
+<ja:include page="page-footer.inc" /> <%-- Keep this --%>
+

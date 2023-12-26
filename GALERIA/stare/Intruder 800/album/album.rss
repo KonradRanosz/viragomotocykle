@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Intruder 800</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>0</title>
+            <link>slides/0.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/0.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/0.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/0.jpg</guid>
+        </item>
+        <item>
+            <title>18</title>
+            <link>slides/18.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/18.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/18.jpg</guid>
+        </item>
+        <item>
+            <title>212</title>
+            <link>slides/212.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/212.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/212.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/212.jpg</guid>
+        </item>
+        <item>
+            <title>312</title>
+            <link>slides/312.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/312.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/312.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/312.jpg</guid>
+        </item>
+        <item>
+            <title>44</title>
+            <link>slides/44.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/44.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/44.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/44.jpg</guid>
+        </item>
+        <item>
+            <title>54</title>
+            <link>slides/54.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:36:10 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/54.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/54.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/54.jpg</guid>
+        </item>
+    </channel>
+</rss>

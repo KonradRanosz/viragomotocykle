@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Srad</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>71</title>
+            <link>slides/71.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:39:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/71.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/71.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/71.jpg</guid>
+        </item>
+        <item>
+            <title>72</title>
+            <link>slides/72.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:39:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/72.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/72.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/72.jpg</guid>
+        </item>
+        <item>
+            <title>73</title>
+            <link>slides/73.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:39:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/73.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/73.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/73.jpg</guid>
+        </item>
+        <item>
+            <title>74</title>
+            <link>slides/74.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:39:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/74.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/74.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/74.jpg</guid>
+        </item>
+        <item>
+            <title>75</title>
+            <link>slides/75.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:39:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/75.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/75.jpg" width="480" height="360"/>
+            <guid isPermaLink="false">slides/75.jpg</guid>
+        </item>
+    </channel>
+</rss>

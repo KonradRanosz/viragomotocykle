@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>R1</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>img_1014</title>
+            <link>slides/img_1014.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:38:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1014.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/img_1014.jpg" width="480" height="320"/>
+            <guid isPermaLink="false">slides/img_1014.jpg</guid>
+        </item>
+        <item>
+            <title>img_1016</title>
+            <link>slides/img_1016.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:38:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1016.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/img_1016.jpg" width="480" height="320"/>
+            <guid isPermaLink="false">slides/img_1016.jpg</guid>
+        </item>
+        <item>
+            <title>img_1019</title>
+            <link>slides/img_1019.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:38:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1019.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/img_1019.jpg" width="480" height="320"/>
+            <guid isPermaLink="false">slides/img_1019.jpg</guid>
+        </item>
+        <item>
+            <title>img_1021</title>
+            <link>slides/img_1021.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:38:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1021.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/img_1021.jpg" width="241" height="360"/>
+            <guid isPermaLink="false">slides/img_1021.jpg</guid>
+        </item>
+        <item>
+            <title>img_1024</title>
+            <link>slides/img_1024.html</link>
+            <pubDate>Fri, 29 Oct 2021 09:38:13 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/img_1024.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/img_1024.jpg" width="480" height="320"/>
+            <guid isPermaLink="false">slides/img_1024.jpg</guid>
+        </item>
+    </channel>
+</rss>

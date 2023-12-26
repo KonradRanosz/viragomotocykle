@@ -1,0 +1,102 @@
+<ja:include page="page-header.inc" /> <%-- Keep this --%>
+
+<ja:ui>
+	class ContactUI extends JWebPageUI {
+		JTextField email_address = new JTextField(20);
+		JTextArea postal_address = new JSmartTextArea(4,20);
+		JTextField phone_number = new JTextField(12);
+		JTextField skype_id = new JTextField(12);
+		JTextField facebook_id = new JTextField(12);
+		JTextField twitter_id = new JTextField(12);
+		JTextField pinterest_id = new JTextField(12);
+		JTextField tumblr_id = new JTextField(12);
+		JTextField jalbum_id = new JTextField(12);
+		JTextField flickr_id = new JTextField(12);
+		JTextField foursquare_id = new JTextField(12);
+		JTextField google_id = new JTextField(12);
+		JTextField linkedin_id = new JTextField(12);
+		JTextField vimeo_id = new JTextField(12);
+		JTextField youtube_id = new JTextField(12);
+		JTextField instagram_id = new JTextField(12);
+
+		
+		{
+			add(new JLabel("Email", ShareIcons.email, SwingConstants.LEADING));
+			add("tab", email_address);
+
+			postal_address.setFocusTraversalKeys(KeyboardFocusManager.FORWARD_TRAVERSAL_KEYS, null); // Use default mapping
+			postal_address.setFocusTraversalKeys(KeyboardFocusManager.BACKWARD_TRAVERSAL_KEYS, null); // Use default mapping			
+			add("br", new JLabel("Postal address", SwingConstants.LEADING));
+			add("tab", new JScrollPane(postal_address));
+
+			add("br", new JLabel("Phone number", ShareIcons.phone, SwingConstants.LEADING));
+			add("tab", phone_number);
+
+			add("br", new JLabel("Skype id", ShareIcons.skype, SwingConstants.LEADING));
+			add("tab", skype_id);
+			
+			add("br", new JLabel("Facebook id", ShareIcons.facebook, SwingConstants.LEADING));
+			add("tab", facebook_id);
+
+			add("br", new JLabel("Twitter id", ShareIcons.twitter, SwingConstants.LEADING));
+			add("tab", twitter_id);
+
+			add("br", new JLabel("Pinterest id", ShareIcons.pinterest, SwingConstants.LEADING));
+			add("tab", pinterest_id);
+
+			add("br", new JLabel("Tumblr id", ShareIcons.tumblr, SwingConstants.LEADING));
+			add("tab", tumblr_id);
+
+			add("br", new JLabel("jAlbum id", ShareIcons.jalbum, SwingConstants.LEADING));
+			add("tab", jalbum_id);
+
+			add("br", new JLabel("Flickr id", ShareIcons.flickr, SwingConstants.LEADING));
+			add("tab", flickr_id);
+
+			add("br", new JLabel("Foursquare id", ShareIcons.foursquare, SwingConstants.LEADING));
+			add("tab", foursquare_id);
+
+			add("br", new JLabel("Google+ id", ShareIcons.googleplus, SwingConstants.LEADING));
+			add("tab", google_id);
+
+			add("br", new JLabel("LinkedIn id", ShareIcons.linkedin, SwingConstants.LEADING));
+			add("tab", linkedin_id);
+
+			add("br", new JLabel("Vimeo id", ShareIcons.vimeo, SwingConstants.LEADING));
+			add("tab", vimeo_id);
+
+			add("br", new JLabel("YouTube id", ShareIcons.youtube, SwingConstants.LEADING));
+			add("tab", youtube_id);
+			
+			add("br", new JLabel("Instagram id", ShareIcons.instagram, SwingConstants.LEADING));
+			add("tab", instagram_id);
+		}
+	}
+</ja:ui>
+
+
+	<div id="contact-page" class="clearfix">
+		<aside><img src="${resPath}/contact.png"></aside>
+		<div class="texts">
+			<ja:if exists="caption"><p>${caption}</p></ja:if>
+			<ja:if exists="email_address"><div class="email">Contact me in email: <a href="mailto:${email_address}">${email_address}</a></div></ja:if>
+			<ja:if exists="postal_address"><div class="address">Postal address:<blockquote><%= postal_address.replaceAll("\n", "<br/>") %><blockquote></div></ja:if>
+			<ja:if exists="phone_number"><div class="phone">Phone number: <a href="callto://${phone_number}">${phone_number}</a></div></ja:if>
+			<ja:if exists="skype_id"><div class="skype">Skype: <a href="skype:${skype_id}?call">${skype_id}</a></div></ja:if>
+			<ja:if exists="facebook_id"><div class="facebook">Follow me on <strong>Facebook</strong>: <a href="http://www.facebook.com/${facebook_id}" target="_blank">http://www.facebook.com/${facebook_id}</a></div></ja:if>
+			<ja:if exists="twitter_id"><div class="twitter">My <strong>Twitter</strong> feed: <a href="https://twitter.com/#!/${twitter_id}" target="_blank">https://twitter.com/${twitter_id}</a></div></ja:if>
+			<ja:if exists="pinterest_id"><div class="pinterest">My <strong>Pinterest</strong> profile: <a href="http://pinterest.com/${pinterest_id}" target="_blank">http://pinterest.com/${pinterest_id}</a></div></ja:if>
+			<ja:if exists="tumblr_id"><div class="tumblr">Follow my <strong>Tumblr</strong> page: <a href="http://${tumblr_id}.tumblr.com/" target="_blank">http://${tumblr_id}.tumblr.com/</a></div></ja:if>
+			<ja:if exists="jalbum_id"><div class="jalbum">My <strong>jAlbum</strong> homepage: <a href="http://${jalbum_id}.jalbum.net/" target="_blank">http://${jalbum_id}.jalbum.net/</a></div></ja:if>
+			<ja:if exists="flickr_id"><div class="flickr"><strong>flickr</strong> photostream: <a href="http://www.flickr.com/photos/${flickr_id}/" target="_blank">http://www.flickr.com/photos/${flickr_id}/</a></div></ja:if>
+			<ja:if exists="foursquare_id"><div class="foursquare"><strong>Foursquare</strong> profile: <a href="http://foursquare.com/${foursquare_id}" target="_blank">http://foursquare.com/${foursquare_id}</a></div></ja:if>
+			<ja:if exists="google_id"><div class="google"><strong>Google +</strong> page: <a href="https://plus.google.com/u/0/${google_id}/posts" target="_blank">https://plus.google.com/u/0/${google_id}/posts</a></div></ja:if>
+			<ja:if exists="linkedin_id"><div class="linkedin"><strong>LinkedIn</strong> profile: <a href="http://www.linkedin.com/profile/view?id=${linkedin_id}" target="_blank">http://www.linkedin.com/profile/view?id=${linkedin_id}</a></div></ja:if>
+			<ja:if exists="vimeo_id"><div class="vimeo">My <strong>Vimeo</strong> profile: <a href="http://vimeo.com/${vimeo_id}" target="_blank">http://vimeo.com/${vimeo_id}</a></div></ja:if>
+			<ja:if exists="youtube_id"><div class="youtube">My <strong>YouTube</strong> homepage: <a href="http://www.youtube.com/user/${youtube_id}" target="_blank">http://www.youtube.com/user/${youtube_id}</a></div></ja:if>
+			<ja:if exists="instagram_id"><div class="instagram">My <strong>Instagram</strong> page: <a href="http://instagram.com/${instagram_id}" target="_blank">http://instagram.com/${instagram_id}</a></div></ja:if>
+		</div>
+	</div>
+
+<ja:include page="page-footer.inc" /> <%-- Keep this --%>
+
